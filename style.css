@@ -1,0 +1,33 @@
+body { background-color: #fff; border: 0; margin: 0; }
+
+a:link { color: #FF9900; text-decoration: underline; }
+a:visited { color: #FF9900; text-decoration: underline; }
+a:hover { color: #000; text-decoration: none; }
+
+img {
+   behavior: url("pngbehavior.htc");
+}
+
+#banner { 
+	position: absolute;
+	height:150px; 
+	width:750px;
+	z-index: 1;
+}
+
+#navigation { 
+	position: relative;
+	top: 130; 
+	right: -10; 
+	width: 750px;
+	height: 50px;
+	z-index: 2;
+}
+
+.main {
+	border-left: solid 1px #222;
+	margin: 0px;
+	padding: 0px;
+	}
+
+.navimg { border: 0px; height: 35px; width: 93px; }

@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Hunt Hosting, LLC - Web Site Hosting, Design, Marketing. Domain Name Registration.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" media="all" href="style.css">
+
+<script language="JavaScript" type="text/javascript">
+
+<!--#include virtual="top_banner.txt" -->
+
+</script> 
+
+<style type="text/css">
+
+img {
+   behavior: url("pngbehavior.htc");
+}
+
+</style>
+
+
+</head>
+<body>
+<div align="center">
+	<table class="main" width="900" height="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td height="70" style="padding-left: 8px; padding-top: 0">
+
+
+<!--#include virtual="top_header.txt" -->
+
+			</td>
+
+			<td rowspan="4" background="side_bg.png" width="50">&nbsp;</td>
+			<td rowspan="4" background="gradientbg.png" width="100">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" height="180" valign="top">
+			<div id="banner">
+	   <!--BEGIN ROTATING HEADER BANNER -->
+
+
+<script type="text/javascript" src="banner_rotation.js"></script>
+
+
+
+	   <!--END ROTATING HEADER BANNER -->
+			</div>
+
+
+<!--#include virtual="main_header.txt" -->
+
+
+	</div>
+		
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" valign="top" height="600">
+			<table border="0" width="100%" id="table2" cellspacing="0" cellpadding="10" height="100%">
+				<tr>
+					<td width="500" valign="top">
+
+
+
+				<font face="verdana" size="2">&quot;Our 
+				customers are the most important part of our business and that 
+				is exactly how they are treated. As a Hunt Hosting customer 
+				expect honest, informative, and friendly service, organized and 
+				easy to follow billing, reliable and fast hosting, and an effort 
+				to make Hunt Hosting your lifelong host.</font><p>
+					<font face="verdana" size="2">We aren't a corporation hosting 
+				tens of thousands of web sites. We are a small business who 
+				knows their clients by name. If you would like to deal with a 
+				host that cares about you and your needs, look no further.</font></p>
+					<p><font face="verdana" size="2">Follow the links below to start 
+				your Hunt Hosting experience. If you have any questions send us 
+				an e-mail or give us a call. We are here to serve you.&quot;</font></td>
+
+
+
+
+
+					<td width="250" valign="top">
+					<div align="center">
+						<table border="0" width="176" id="table3" cellspacing="0" cellpadding="0" height="100%">
+							<tr>
+								<td height="20">
+								<img border="0" src="side_top.png" width="176" height="20"></td>
+							</tr>
+
+
+							<tr>
+								<td background="sidebar_bg.png" valign="top" height="100%">
+								<div align="center">
+									<table border="0" width="90%" id="table4" cellpadding="0">
+				
+				<!--#include virtual="right_side.txt" -->
+
+									</table></div></td>
+							</tr>
+
+
+							<tr>
+								<td height="20">
+								<img border="0" src="side_bottom.png" width="176" height="20"></td>
+							</tr>
+						</table></div></td>
+				</tr>
+			</table></td>
+		</tr>
+		<tr>
+			<td colspan="2" height="40" valign="top">
+			<div align="center">
+				<table border="0" width="95%" id="table1" cellspacing="0" cellpadding="0">
+
+
+			<!--#include virtual="bottom.txt" -->
+
+
+				</table><br></div></td>
+		</tr>
+	</table></div>
+</body>
+</html>

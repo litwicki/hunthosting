@@ -1,0 +1,13 @@
+<tr>
+<td>
+<img border="0" src="bottom_left.png" width="20" height="50"></td>
+<td background="bottom_bg.png" width="100%">
+
+<font face="Verdana" size="1">Phone: 517-902-8450 | Toll-Free: 888-647-5861 | 
+<a href="mailto:kyle@hunthosting.com">E-Mail</a> <br>Copyright © 1999-2006 
+<b>Hunt Hosting, LLC | <a href="terms.shtml">AUP/TOS</a></b></font>
+
+</td>
+<td>
+<img border="0" src="bottom_right.png" width="20" height="50"></td>
+</tr>

@@ -1,0 +1,4 @@
+	<a href="index.shtml"><img border="0" src="logo.png" width="197" height="54"></td>
+	<td style="padding-right: 20px; padding-bottom:20px" height="60" valign="bottom">
+	<p align="right"><font face="Arial" size="1"><a href="about.shtml">ABOUT</a> | <a href="contact.shtml">CONTACT</a> | 
+	<a href="support.shtml">SUPPORT</a> | <a href="sitemap.shtml">SITEMAP</a></font>

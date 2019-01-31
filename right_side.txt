@@ -1,0 +1,46 @@
+<tr>
+<td width="85" valign="top">
+<font face="Verdana" size="1">
+<a href="http://www.hunthosting.com/blog/"><img border="0" src="blog_green.png" width="81" height="81"></a></font></td>
+<td valign="top">
+	<font face="Verdana" size="1">Do you want to hear the truth and nothing but the truth?</font></td>
+	</tr>
+<tr>
+<td colspan="2" valign="top">
+	<font face="Verdana" size="1"><a href="http://www.hunthosting.com/blog/"><b>Visit our blog</b></a> 
+	for <b>candid</b> thoughts on topics ranging from time management, to setting effective goals, to 
+online marketing.  The blog covers some of our experiences with the aforementioned as well as many other topics.</font></td>
+</tr>
+
+<tr>
+<td colspan="2" height="100">
+<p align="center">
+<img border="0" src="testimonials.png" width="135" height="40"></td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+
+<p align="justify">
+<font face="Arial" size="1">&quot;My income relies on my web sites and my web sites rely on Hunt Hosting. When I decided to move my sites, I spent countless hours researching web hosting companies. I found the perfect 
+		match with Hunt Hosting. Your level of 
+									support is second to none. I have never 
+									dealt with faster, more friendly customer 
+									support. I feel confident relying on Hunt 
+									Hosting as a home for my Internet 
+									businesses. I'd recommend your services to 
+									anyone.&quot;</font>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<p align="right">
+<font face="Arial" size="2"><i><b>Ben 
+Cunningham<br><a href="http://www.romancestuck.com">RomanceStuck.com</a></b></i></font></td>
+</tr>
